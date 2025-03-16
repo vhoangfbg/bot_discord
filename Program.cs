@@ -7,11 +7,11 @@ using Discord.WebSocket;
 class Program
 {
     private static DiscordSocketClient? _client;
-    var TOKEN = Environment.GetEnvironmentVariable("Token"); 
-    //static Program(){
-    //Env.Load();
-    //TOKEN = Env.GetString("Token") ?? "";
-    //}
+    private static string TOKEN;
+    static Program(){
+    Env.Load();
+    TOKEN = Env.GetString("Token") ?? "";
+    }
     static void Main() => new Program().RunBotAsync().GetAwaiter().GetResult();
 
     public async Task RunBotAsync()

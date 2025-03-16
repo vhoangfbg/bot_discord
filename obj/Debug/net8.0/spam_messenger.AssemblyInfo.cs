@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("spam_messenger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8654abb4f02b4138d7f6bc9d088aa86fcc8f8c09")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a433d5858162bb0a39fd0acd996f27fa4809d5d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("spam_messenger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("spam_messenger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
