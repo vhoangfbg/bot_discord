@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4n2ekpRi9N5yd6N5ldbKEzdq1OGrJNjAbeb6Avb0oX0pscZ9Zu90eKxgXnlGhjKyvaDw7k4/rjbjN6cdu54lgA==",
+  "dgSpecHash": "dZgrqZ3NRVU=",
   "success": true,
   "projectFilePath": "/home/yekki/projects/tools/spam_message/spam_messenger.csproj",
   "expectedPackageFiles": [
@@ -98,8 +98,7 @@
     "/home/yekki/.nuget/packages/system.threading.timer/4.3.0/system.threading.timer.4.3.0.nupkg.sha512",
     "/home/yekki/.nuget/packages/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg.sha512",
     "/home/yekki/.nuget/packages/system.xml.readerwriter/4.3.0/system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "/home/yekki/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512",
-    "/home/yekki/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.36/microsoft.netcore.app.host.linux-x64.6.0.36.nupkg.sha512"
+    "/home/yekki/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -5390,6 +5390,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "Discord.Net >= 3.17.2",
+      "Discord.Net.Commands >= 3.17.2",
       "DotNetEnv >= 3.1.1"
     ]
   },
@@ -5424,6 +5425,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -5431,6 +5437,10 @@
         "targetAlias": "net6.0",
         "dependencies": {
           "Discord.Net": {
+            "target": "Package",
+            "version": "[3.17.2, )"
+          },
+          "Discord.Net.Commands": {
             "target": "Package",
             "version": "[3.17.2, )"
           },
@@ -5450,18 +5460,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.linux-x64",
-            "version": "[6.0.36, 6.0.36]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.114/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.407/RuntimeIdentifierGraph.json"
       }
     }
   }

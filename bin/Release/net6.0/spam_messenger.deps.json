@@ -9,6 +9,7 @@
       "spam_messenger/1.0.0": {
         "dependencies": {
           "Discord.Net": "3.17.2",
+          "Discord.Net.Commands": "3.17.2",
           "DotNetEnv": "3.1.1"
         },
         "runtime": {

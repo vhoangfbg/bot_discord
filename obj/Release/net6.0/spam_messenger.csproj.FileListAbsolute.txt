@@ -27,7 +27,7 @@
 /home/yekki/projects/tools/spam_message/obj/Release/net6.0/spam_messenger.AssemblyInfo.cs
 /home/yekki/projects/tools/spam_message/obj/Release/net6.0/spam_messenger.csproj.CoreCompileInputs.cache
 /home/yekki/projects/tools/spam_message/obj/Release/net6.0/spam_messenger.sourcelink.json
-/home/yekki/projects/tools/spam_message/obj/Release/net6.0/spam_messenger.csproj.CopyComplete
+/home/yekki/projects/tools/spam_message/obj/Release/net6.0/spam_mes.6C5137AB.Up2Date
 /home/yekki/projects/tools/spam_message/obj/Release/net6.0/spam_messenger.dll
 /home/yekki/projects/tools/spam_message/obj/Release/net6.0/refint/spam_messenger.dll
 /home/yekki/projects/tools/spam_message/obj/Release/net6.0/spam_messenger.pdb
